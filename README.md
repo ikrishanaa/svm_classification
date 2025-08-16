@@ -18,9 +18,9 @@ If no dataset is provided, it defaults to the **Breast Cancer Wisconsin** datase
 ```
 svm_classification_project/
 │
-├── data/                 # Place your dataset CSV here
-├── outputs/              # Generated plots & metrics
-├── src/                  # Python code
+├── data/                 
+├── outputs/              
+├── src/                  
 │   └── svm_model.py
 ├── README.md
 └── requirements.txt
